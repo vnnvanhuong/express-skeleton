@@ -1,0 +1,13 @@
+openapi: 3.0.1
+
+info:
+  description:
+  version: '0.1.0'
+  title: <description here>
+  contact:
+    email: <maintainer contact here>
+
+paths:
+
+components:
+    
